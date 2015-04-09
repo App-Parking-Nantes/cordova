@@ -1,0 +1,23 @@
+<h2>Parkings List</h2>
+<div ng-controller="MapsController">
+    <div class="row">
+        <div class="col-md-6">
+            <form class="form-inline">
+                <div class="form-group">
+                    <label>Filtrer par Nom </label>
+                    <input type="text" ng-model="searchValue" placeholder="Recherche" class="form-control"> 
+                </div>
+            </form>
+            <hr>
+            <div id="searchResults">
+                <ul>
+                    <li ng-repeat="parking in parkings| filter: searchValue">
+                        <div style="display: none ;" ng-init="param = parking.IdObj;"></div>
+                        <a ng-click="one(param)" href="#single/{{parking.IdObj}}">
+                            {{parking.Grp_nom}}</a>
+                    </li>
+                </ul>
+            </div>
+        </div>        
+</div>
+
