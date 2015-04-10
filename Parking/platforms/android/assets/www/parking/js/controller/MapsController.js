@@ -84,17 +84,7 @@ app.controller('MapsController', ['$scope', '$http', '$location', '$rootScope', 
         });
         
 
-        $scope.showInfoWindow = function (event, p) {
-            var infowindow = new google.maps.InfoWindow();           
-            var center = new google.maps.LatLng(p.localisation._l[0],p.localisation._l[1]);
-            $scope.one(p.IdObj);
-
-            infowindow.setContent(
-                '<h3>' + p.localisation._l + '</h3>');
-
-            infowindow.setPosition(center);
-            infowindow.open($scope.objMapa);
-        };
+      
         
         
         //Main

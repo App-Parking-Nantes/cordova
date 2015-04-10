@@ -39,6 +39,7 @@ E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\css\index.css \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\img\logo.png \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\js\index.js \
+E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\index.html \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\js \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\php \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\view \
@@ -49,6 +50,7 @@ E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\js\contr
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\php\horaireParkings.php \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\php\localisation.php \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\php\parkings.php \
+E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\view\viewInfos.html \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\view\viewList.html \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\view\viewMaps.html \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\view\viewSingle.html \
@@ -63,6 +65,7 @@ E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\angular\angular-sanitize.js \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\angular\angular.js \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\css\bootstrap.css \
+E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\css\materialize.css \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\css\style.css \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\css\styleList.css \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\css\styleMaps.css \
@@ -73,6 +76,8 @@ E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\fonts\glyphicons-halflings-regular.woff \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\fonts\glyphicons-halflings-regular.woff2 \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\img\map30.png \
+E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\img\parking29.png \
+E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\img\parking29.svg \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\img\sort52.png \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\js\bootstrap.js \
 E:\wamp\www\parkingCordova\Parking\platforms\android\assets\www\parking\WebRoot\js\jquery.js \

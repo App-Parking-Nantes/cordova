@@ -6,6 +6,9 @@ html, body {
     margin: 0;
     padding: 0;
 }
+ul,li,ol{
+    list-style:  none ;
+}
 a {
     text-decoration: none;
     color: inherit;
@@ -25,7 +28,7 @@ a {
     height: 66px;
     line-height: 66px;
     color: #FFF;
-    background-color: #303f9f;
+    background-color: #3F51B5;
 }
 .header__logo {
     font-weight: bold;
@@ -33,12 +36,12 @@ a {
     float: left;
 }
 .header__logo:hover{
-   color :#fff ;
-   text-decoration : none ;
+    color :#fff ;
+    text-decoration : none ;
 }
 .menu {
     float: left;
-  
+
 }
 .menu a {
     padding: 0 10px;
@@ -104,7 +107,7 @@ a {
     top: 0;
     bottom: 0;    
     -webkit-overflow-scrolling: touch;
-    background-color: #2a378b;
+    background-color: #3F51B5;
     width: 250px;
     -moz-transform: translateX(-250px);
     -ms-transform: translateX(-250px);
@@ -132,3 +135,58 @@ a {
     bottom: 0;
     /*background-color: rgba(0, 0, 0, 0.6);*/
 }
+
+#iconmap{
+    vertical-align: middle; 
+    position: relative; 
+    left: -75px;
+    color: #337ab7;
+    text-decoration: none;
+    width:32px;
+    background-image: url('LibraryTransparent.png');
+}
+#iconmap:hover,
+#iconmap:focus {
+   background-image: url('LibraryHoverTrans.png');
+   color: #23527c;
+   text-decoration: underline;
+}
+#iconlist{
+    vertical-align: middle; 
+    position: relative; 
+    left: -75px;
+    color: #337ab7;
+    text-decoration: none;
+    width:32px;
+    background-image: url('LibraryTransparent.png');
+   }
+#iconmap:hover,
+#iconmap:focus {
+   background-image: url('LibraryHoverTrans.png');
+   color: #23527c;
+   text-decoration: underline;
+}
+
+
+.listdemoBasicUsage .face {
+  border-radius: 30px;
+  border: 1px solid #ddd;
+  width: 48px;
+  margin: 16px; }
+
+
+// VUE LIST
+#oneItem{
+    padding : 16px ;
+}
+#places{
+      color: rgba(0,0,0,0.54);
+      font-size : 12px ;
+}
+#searchResults{
+      box-shadow: 0px 2px 5px 0 rgba(0, 0, 0, 0.26);
+        background: #f2f2f2 !important;
+}
+#oneItem p{
+    font-weight: bold ;}
+

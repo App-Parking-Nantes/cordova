@@ -16,6 +16,10 @@ app.config(['$routeProvider','$httpProvider',function ($routeProvider,$httpProvi
         templateUrl : 'parking/view/viewSingle.html',
         controller : 'MapsController'
     })
+    .when('/a-propos',{
+        templateUrl : 'parking/view/viewInfos.html',
+        controller : 'MapsController'
+    })
     .otherwise({redirectTo : '/maps'});   
     
 }]);
